@@ -1,0 +1,17 @@
+{
+  "lib/evm-contracts": {
+    "tag": {
+      "name": "v3.1.0",
+      "rev": "9bc69bffe9da00ed3e09c58d656c5cef2a06ee03"
+    }
+  },
+  "lib/forge-std": {
+    "rev": "3b20d60d14b343ee4f908cb8079495c07f5e8981"
+  },
+  "lib/solady": {
+    "rev": "fed6e77010ff48434c59b611acf3dfdf0ab8c19b"
+  },
+  "lib/v4-periphery": {
+    "rev": "3779387e5d296f39df543d23524b050f89a62917"
+  }
+}
